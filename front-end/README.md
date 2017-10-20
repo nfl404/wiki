@@ -16,6 +16,9 @@
 * [jQuery](detail/jQuery)
 * [更多](detail/README.md)
 
+###管理
+* [前端工程构造工具](http://fis.baidu.com/)
+
 ### 资源
 * [学习资源](bookmark/learn-resouce.md)
 * [网站收藏](bookmark/README.md)
